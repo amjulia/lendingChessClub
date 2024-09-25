@@ -153,4 +153,4 @@ updateCardsPerPage();
 navigateSlides();
 startInterval();
 window.addEventListener("resize", updateCardsPerPage);
-window.addEventListener("resize", navigateSlides)
+window.addEventListener("resize", navigateSlides);
