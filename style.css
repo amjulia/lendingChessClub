@@ -604,6 +604,10 @@ del {
   }
 }
 @media (max-width: 1200px) {
+  .center {
+    padding-left: 19px;
+    padding-right: 19px;
+  }
   .support__content {
     flex-wrap: wrap;
   }
@@ -616,6 +620,13 @@ del {
   }
 }
 @media (min-width: 769px) and (max-width: 1139px) {
+  .center {
+    padding-left: 19px;
+    padding-right: 19px;
+  }
+  .support-top img {
+    width: 75%;
+  }
   .players-nav {
     right: calc(50% - 400px);
   }
