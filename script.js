@@ -55,6 +55,8 @@ prevBtn.addEventListener("click", () => {
       prevBtn.classList.add("disabled");
     }
   }
+  showSlide();
+  showDot();
 });
 
 nextBtn.addEventListener("click", () => {
@@ -77,6 +79,8 @@ nextBtn.addEventListener("click", () => {
       prevBtn.classList.add("disabled");
     }
   }
+  showSlide();
+  showDot();
 });
 
 showSlide();
