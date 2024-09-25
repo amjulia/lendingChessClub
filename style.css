@@ -437,6 +437,13 @@ del {
     font-size: 28px;
     line-height: 37.8px;
   }
+  .top {
+   
+    background-image: url(img/bg-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
   .top__content {
     max-width: 542px;
     padding-left: 0;
@@ -515,7 +522,7 @@ del {
     line-height: 21.6px;
   }
   .support__img {
-    width: 335px;
+    width: 300px;
     height: 405px;
   }
   .support__content img {
