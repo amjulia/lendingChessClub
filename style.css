@@ -514,6 +514,10 @@ del {
     font-size: 18px;
     line-height: 21.6px;
   }
+  .support__img {
+    width: 335px;
+    height: 405px;
+  }
   .support__content img {
     width: 100%;
   }
